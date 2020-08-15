@@ -1,0 +1,21 @@
+.login {
+	display: grid;
+	/* css short hand property that allows you to align items
+	along the block and inline directions at once */
+	place-items: center;
+
+	background-color: black;
+}
+
+.login>img {
+	width: 50%;
+}
+
+.login>a {
+	padding: 20px;
+	color: white;
+	background-color: #1db954;
+	border-radius: 99px;
+	font-weight: 800;
+	text-decoration: none;
+}
