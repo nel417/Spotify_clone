@@ -3,7 +3,7 @@
 	/* css short hand property that allows you to align items
 	along the block and inline directions at once */
 	place-items: center;
-
+	height: 100vh;
 	background-color: black;
 }
 
